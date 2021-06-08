@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bf_red">#ef2b2d</color>
+    <color name="bf_green">#009E49</color>
+    <color name="bf_yellow">#FCD116</color>
+    <color name="jp_red">#BE0026</color>
+    <color name="fr_blue">#00209F</color>
+    <color name="fr_red">#F42A41</color>
+    <color name="bj_green">#008751</color>
+    <color name="bj_yellow">#FCD116</color>
+    <color name="bj_red">#F42A41</color>
+    <color name="dk_red">#D00C33</color>
+    <color name="pa_red">#D21034</color>
+    <color name="pa_blue">#0067C6</color>
+    <color name="se_blue">#0B5089</color>
+    <color name="se_yellow">#FFC100</color>
+    <color name="sw_red">#E20025</color>
+</resources>
