@@ -34,7 +34,8 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:layout_marginLeft="24dp"
-            android:layout_marginTop="10dp">
+            android:layout_marginTop="10dp"
+            android:id="@+id/flags">
 
             <include
                 android:layout_width="180dp"
